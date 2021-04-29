@@ -1,2 +1,2 @@
 # covid19
-One-Stop Imfo
+One-Stop Info
